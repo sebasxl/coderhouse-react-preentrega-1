@@ -9,7 +9,7 @@ function NavBar() {
           <img
             alt="Bulma: a modern CSS framework based on Flexbox"
             height="28"
-            src="https://bulma.io/images/bulma-logo.png"
+            src="https://www.pngkit.com/png/full/364-3642224_clarity-ecommerce-logo-logo-e-commerce-png.png"
             width="112"
           />
         </Navbar.Item>

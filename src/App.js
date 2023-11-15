@@ -7,7 +7,7 @@ function App() {
   return (
     <div>
       <NavBar />
-      <ItemListContainer />
+      <ItemListContainer titulo="Bienvenido al Ecommerce 3.0" />
     </div>
   );
 }
